@@ -2,9 +2,6 @@ DeberValidaciones
 =================
 
 Validaciones números primos, binarios etc
-
-
-
 <html>
 <head> <center>VALIDACION</center></P>
 <head> 
